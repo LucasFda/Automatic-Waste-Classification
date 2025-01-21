@@ -38,7 +38,6 @@ PRJ
   - `build_and_train_model.py`: Script for building, training, and saving the model.
   - `check_train_test_val.py`: Validates the dataset structure.
   - `predict_with_picture.py`: Predicts the class of a single image selected by the user.
-  - `predict_with_cam.py`: Uses the webcam to classify objects in real time.
   - `prepare_test_train_val.py`: Splits the dataset into train, test, and validation sets.
   - `rename_img_by_class.py`: Renames images in the dataset for uniformity.
 
